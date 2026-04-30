@@ -19,11 +19,16 @@
 
 ===================================
 Início do monitoramento:
+
  
  Nível 1 -> Muito baixo (crítico)
+
  Nível 2 -> Baixo
+ 
  Nível 3 -> Médio
+ 
  Nível 4 -> Alto
+ 
  Nível 5 -> Muito alto (alerta)
 
 Fim do monitoramento 
